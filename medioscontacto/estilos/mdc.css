@@ -1,0 +1,29 @@
+body{ 
+    background-color: #edece9;
+}
+h1{ 
+    font-family:  Verdana, sans-serif ;
+    color: rgb(184, 124, 81) ;
+    text-align: center;
+    font-size: 60px;
+}
+ul{
+    font-family:  Verdana, sans-serif ;
+    color:#775548 ;
+    text-align: justify;
+    font-size: 30px;
+    align-content: space-around;
+    list-style: none;
+}
+    
+    header{
+        background-color:#ddcfc9;  ;
+    }
+    .imagen{
+        float: left;
+        margin: 6px;
+        width: 20px;
+    }
+    a{
+        color:#775548 ;
+    }

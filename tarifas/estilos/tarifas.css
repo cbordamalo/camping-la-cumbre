@@ -1,0 +1,49 @@
+body {
+    background-color: #edece9;
+}
+
+header {
+    background-color:#ddcfc9;
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    color: rgb(179, 121, 80);
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    font-family: Verdana, sans-serif;
+    color: rgb(187, 130, 90);
+    text-align: center;
+    font-size: 30px;
+    background-color: #dfcdc0;
+}
+
+ul {
+    font-family: Verdana, sans-serif;
+    color:#775548;
+    text-align: justify;
+    font-size: 20px;
+    align-content: space-around;
+    margin: 6px;
+}
+
+.foto1 {
+    float: right;
+    margin: 9px;
+    width: 197px;
+    border: 4px solid rgb(179, 121, 80);
+    padding: 4px;
+}
+
+.foto2 {
+
+    float: left;
+    margin-right: 9px;
+    width: 197px;
+    border: 4px solid rgb(179, 121, 80);
+    padding: 4px;
+
+}

@@ -1,0 +1,76 @@
+body{
+    background-color: #edece9;
+}
+
+img{ 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 387px;text-align: center;
+    
+  
+}
+a {
+    font-family:Verdana, Arial, sans-serif ;
+    font-size: 30px;
+    font-weight: bold;
+    color: #ef7537;
+    
+}
+.titulo1{
+    font-family:Verdana, Arial, sans-serif ;
+    font-size: 50px;
+    font-weight: bold;
+    color:#775548;
+    
+   
+}
+.titulo{
+    font-family:Verdana, Arial, sans-serif ;
+    font-size: 30px;
+    font-weight: bold;
+    color:#e1d4cf;
+    background-color:#775548 ;
+
+}
+ul,ol{font-family:Verdana, Arial, sans-serif ;
+    font-size: 20px;
+    font-weight: light;
+    color:#775548;
+    
+
+}
+p{font-family:Verdana, Arial, sans-serif ;
+    font-size: 20px;
+    font-weight: light;
+    color:#775548;
+    margin-left: 0;
+
+}
+.naranja{
+    font-family:Verdana, Arial, sans-serif ;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ef7537;
+}
+.azul{
+    font-family:Verdana, Arial, sans-serif ;
+    font-size: 20px;
+    font-weight: bold;
+    color: #47abc4;
+}
+.rojo{
+    font-family:Verdana, Arial, sans-serif ;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ef4d54;
+}
+
+.titulo2{
+    font-family:Verdana, Arial, sans-serif ;
+    font-size: 30px;
+    font-weight: bold;
+    color:#d8b03b;
+    background-color:#775548 ;
+}
+
